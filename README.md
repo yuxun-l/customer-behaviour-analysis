@@ -15,7 +15,8 @@ A retail company wants to understand how customers shop so it can improve sales,
 - **Size:** 3,900 rows and 18 columns (one row per customer purchase)
 - **Contents:** demographics, product details, transaction details, and behavioural data such as reviews, subscriptions, and discounts
 - **Data quality:** 37 missing values in `Review Rating`, no duplicate rows
-- **Source:** customer_shopping_behavior.csv
+- **Source:** [customer_shopping_behavior.csv](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv), provided by Amlan Mohanty ([@amlanmohanty1](https://github.com/amlanmohanty1)) in the YouTube tutorial [COMPLETE Data Analytics Portfolio Project in 6 EASY Steps | Python + SQL + Power BI](https://www.youtube.com/watch?v=5PrZvPeUw60)
+- **File in this repo:** `customer_shopping_behavior.csv`
 
 | Group | Columns |
 |-------|---------|
