@@ -15,7 +15,7 @@ A retail company wants to understand how customers shop so it can improve sales,
 - **Size:** 3,900 rows and 18 columns (one row per customer purchase)
 - **Contents:** demographics, product details, transaction details, and behavioural data such as reviews, subscriptions, and discounts
 - **Data quality:** 37 missing values in `Review Rating`, no duplicate rows
-- **Source:** *[add link or name of dataset]*
+- **Source:** *customer_shopping_behavior.csv*
 
 | Group | Columns |
 |-------|---------|
