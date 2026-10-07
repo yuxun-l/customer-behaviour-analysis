@@ -99,7 +99,10 @@ pip install pandas sqlalchemy psycopg2-binary jupyter
 ├── images/      # Dashboard screenshots
 └── README.md
 ```
+Acknowledgements
+
+This project was built by following the tutorial "COMPLETE Data Analytics Portfolio Project in 6 EASY Steps" by [Creator Name], which also provided the dataset. I followed the tutorial's workflow closely and wrote up the findings, dashboard review, and recommendations in my own words.
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
+**Liu Yu Xun** · www.linkedin.com/in/yu-xun-liu 
