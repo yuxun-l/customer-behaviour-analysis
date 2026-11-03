@@ -91,13 +91,22 @@ pip install pandas sqlalchemy psycopg2-binary jupyter
 ## Repository Structure
 
 ```
-├── data/        # Raw dataset
-├── python/      # Cleaning, EDA, and database load notebook
-├── sql/         # PostgreSQL analysis queries
-├── powerbi/     # Power BI dashboard (.pbix)
-├── reports/     # Project report
-├── images/      # Dashboard screenshots
+customer-shopping-behaviour-analysis/
+│
+├── data/
+│   └── customer_shopping_behavior.csv
+├── python/
+│   └── Customer_Shopping_Behaviour_Analysis.ipynb
+├── sql/
+│   └── customer_behavior_sql_queries.sql
+├── powerbi/
+│   └── customer_behavior_dashboard.pbix
+├── reports/
+│   └── customer_shopping_behavior_analysis_report.pdf
+├── images/
+│   └── dashboard.png
 └── README.md
+
 ```
 Acknowledgements
 
