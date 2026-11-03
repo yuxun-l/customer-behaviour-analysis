@@ -83,10 +83,10 @@ cd customer-shopping-behaviour-analysis
 pip install pandas sqlalchemy psycopg2-binary jupyter
 ```
 
-1. Open the notebook in `python/`, update the PostgreSQL connection details, and run all cells to clean the data and load it into the database.
-2. Run the queries in `sql/` against the loaded table.
-3. Open the `.pbix` file in `powerbi/` with Power BI Desktop and refresh the data source.
-4. Read the full write-up in `reports/`.
+1. Open python/Customer_Shopping_Behaviour_Analysis.ipynb, update the PostgreSQL connection details, and run all cells to clean the data and load it into the database.
+2. Run the queries in sql/customer_behavior_sql_queries.sql against the loaded table.
+3. Open powerbi/customer_behavior_dashboard.pbix in Power BI Desktop and refresh the data source.
+4. Read the full write-up in reports/customer_shopping_behavior_analysis_report.pdf
 
 ## Repository Structure
 
@@ -104,7 +104,7 @@ customer-shopping-behaviour-analysis/
 ├── reports/
 │   └── customer_shopping_behavior_analysis_report.pdf
 ├── images/
-│   └── dashboard.png
+│   └── dashboard.pdf
 └── README.md
 
 ```
